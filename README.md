@@ -45,7 +45,7 @@ Ext.Loader.setConfig({
 Run the index.html on browser
 
 #Screenshot
-![](weather.png)
+![](Weather Stations.png)
 
 
 
